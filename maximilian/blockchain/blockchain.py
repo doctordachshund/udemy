@@ -1,4 +1,5 @@
 blockchain = []
+open_transactions = []
 
 
 def get_last_blockchain_value():
@@ -27,3 +28,9 @@ for block in blockchain:
     print(block)
 
 print('Done!')
+
+transactin - {'sender': sender, "recipeitn": recipient, 'amount': amount}
+
+
+def mine_block()
+    pass
